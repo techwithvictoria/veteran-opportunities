@@ -1,0 +1,17 @@
+name: Report a correction
+description: Flag a broken link, changed eligibility, or expired opportunity.
+title: "[Correction] "
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Affected resource
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What needs to change?
+      description: Include the current official source and date checked if available. Do not share private documents.
+    validations:
+      required: true
