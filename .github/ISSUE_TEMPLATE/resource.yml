@@ -1,0 +1,34 @@
+name: Suggest a resource
+description: Share a benefit, program, or opportunity for the military community.
+title: "[Resource] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource or program name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official source URL
+      description: Use the provider's direct link without referral codes.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What does it offer, and who qualifies?
+      description: Include service status, spouse or dependent eligibility, and location if known.
+    validations:
+      required: true
+  - type: textarea
+    id: costs_dates
+    attributes:
+      label: Costs, dates, and availability
+      description: Include fees, travel coverage, deadline year and time zone, and when you checked. Say unknown if unconfirmed.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "This issue is public. Do not include service records, claim numbers, or private application documents."
