@@ -10,6 +10,15 @@ A community resource directory for **U.S. veterans, transitioning service member
 
 > **Need support now?** Contact the [Veterans Crisis Line](https://www.veteranscrisisline.net/): **dial 988, then press 1**, text **838255**, or use online chat. You do not need to be enrolled in VA benefits or health care. For homelessness or risk of homelessness, call **877-424-3838** or visit [VA Homeless Programs](https://department.va.gov/homeless/).
 
+## Free opportunities and retreats
+
+Explore **35 additional programs** in two focused guides, reviewed September 6, 2026:
+
+- **[Veteran retreats and outdoor experiences](RETREATS.md)** — 15 programs, with eligibility, travel coverage, meals, lodging, fees, and application timing clearly separated.
+- **[Free resources and opportunities](FREE_RESOURCES.md)** — 20 programs covering online training, career tools, arts, recreation, transportation, legal help, and more.
+
+“Free participation” does not always include travel. The retreat guide distinguishes fully covered expenses from costs to confirm or pay yourself. Standing program pages do not guarantee open applications.
+
 ## Start here
 
 | What you need | A useful first step |
